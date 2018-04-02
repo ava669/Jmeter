@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.7e88.cn;www.d17.cc;www.soufun.com;www.pvc123.com;www.emaiguo.com;www.haopoo.com;www.warriorforum.com;myvip8.jdzj.com;www.chaolv.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.forktruck.cn;www.31hgsj.com;www.ectrade.com;www.jumoremt.com;www.88dv.net;www.souyi.cc;www.print-base.com;www.spjxcn.com;www.bridgeswholesale.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.2e5e.com;www.gmb2b.com;www.88db.com;www.chinafastener.biz;www.cbminfo.com;house.focus.cn;www.cpp1.cn;www.wyy.cn;www.88dv.net</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.niucou.com;www.ccidnet.com;www.cnny001.com;www.shouyao8.com;www.51yunli.com;www.asmag.com.cn;www.31xjxl.com;www.51nianheji.com;www.t988.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.ypall.com;www.chaolv.com;www.warriorforum.com;www.mianfeiic.com;www.ehvacr.com;www.comejx.com;www.socom.cn;www.zhineng.com.cn;www.jumoremt.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.huocang.cn;www.archina.com;www.jidiangu.com;www.gzhglb.cn;www.378114.com;qin315805425.b2b.globalbuy.cc;www.jidiangu.com;www.fashangji.com;www.wbmbw.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">118.193.215.245;www.peihuo.cn;www.b2bwj.com;www.xd565.com;www.u520.net;www.ooomk.com;www.cn-71.com;www.print-base.com;www.mof.gov.cn</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">www.huagongchina.com;www.4px.cc;www.jyw360.com;192.168.119.102&lt;/span&gt;的 3389 端口进行访问，满足策略&lt;span class=&apos;strategy-name&apos;&gt;119-in-101;www.baima.com;www.buy5j.com;stripovi-online.com;www.thefreelibrary.com;www.baima.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">auto.sina.com.cn;www.pumpbuy.com;www.di114.cn;www.baiyem.com;www.zhineng.com.cn;www.sonhoo.net;www.56luck.com;999beijing.com;www.uni86.net</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+<sample lb="Java请求">
+  <requestHeader class="java.lang.String"></requestHeader>
+  <samplerData class="java.lang.String">qin315805425.b2b.globalbuy.cc;www.51kids.com;www.ddc.net.cn;www.yber.cn;www.yber.cn;www.qjy168.com;www.one108.com;www.toys365.com;www.bengfa88.com</samplerData>
+</sample>
+<sample lb="获取日志">
+  <requestHeader class="java.lang.String"></requestHeader>
+</sample>
+
+</testResults>
